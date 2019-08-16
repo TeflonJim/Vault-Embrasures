@@ -71,5 +71,6 @@ task UpdateLocal {
         Remove-Item $modPath -Recurse
     }
 
-    Copy-Item $buildInfo.Path.Source "$path\Mods" -Recurse -Force
+    New-Item -Path $modPath -ItemType Directory -Force
+    Copy-Item -Path (Join-Path $buildInfo.Path.Source '*') -Destination $modPath -Recurse -Force
 }
