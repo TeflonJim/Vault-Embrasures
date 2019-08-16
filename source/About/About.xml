@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vault Embrasures</name>
+  <author>denty</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>
+	Allows you to build a vault embrasure. 
+  </description>
+</ModMetaData>

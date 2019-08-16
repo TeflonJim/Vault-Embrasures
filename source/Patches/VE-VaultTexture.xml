@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName='VaultWall']/graphicData/texPath</xpath>
+        <value>
+            <texPath>Things/Building/Linked/VaultWall</texPath>
+        </value>
+    </Operation>
+</Patch>
