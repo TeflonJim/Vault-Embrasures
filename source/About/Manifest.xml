@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Manifest>
   <identifier>Vault Embrasures</identifier>
-  <version>1.0.14</version>
+  <version>1.0.16</version>
   <manifestUri>https://raw.githubusercontent.com/TeflonJim/VaultEmbrasures/master/source/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/TeflonJim/VaultEmbrasures/releases/latest</downloadUri>
 </Manifest>

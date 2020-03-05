@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Vault Embrasures</name>
-  <author>denty</author>
+  <author>TeflonJim</author>
+  <packageId>teflonjim.vaultembrasures</packageId>
   <supportedVersions>
     <li>1.0</li>
+    <li>1.1</li>
   </supportedVersions>
   <description>
-	Allows you to build a vault embrasure. 
+Allows you to build a vault embrasure.
+
+Requires the Vault mod.
   </description>
 </ModMetaData>
