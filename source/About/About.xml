@@ -12,4 +12,14 @@ Allows you to build a vault embrasure.
 
 Requires the Vault mod.
   </description>
+  <modDependencies>
+		<li>
+			<packageId>SickBoyWi.Vault.OnePointOne</packageId>
+			<displayName>Vault [1.1]</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2000708343</steamWorkshopUrl>
+		</li>
+  </modDependencies>
+  <loadAfter>
+    <li>SickBoyWi.Vault.OnePointOne</li>
+  </loadAfter>
 </ModMetaData>
